@@ -1,10 +1,9 @@
 ---
-title: Chapter 1
-nav_order: 10
-nav_exclude: true
+title: Chapter 4
+nav_order: 5
 ---
 
-# Configuration
+# Chapter 4
 {: .no_toc }
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
