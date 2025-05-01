@@ -1,7 +1,6 @@
 // custom SCSS (or CSS) goes here
 .practice-question, .course-project {
-    background: #f9f9ff;
-    border-left: 5px solid #7153ED;
+    background: #f9f9ff;   
     padding: 1rem 1.5rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.04);
@@ -16,7 +15,7 @@
     padding: 0.75rem 1rem;
     margin-top: 1rem;
     border: 1px solid #e0e0e0;
-    border-left: 4px solid #7153ED;
+   
     border-radius: 6px;
     transition: background 0.3s;
   
@@ -24,4 +23,16 @@
   
   .question:hover, .project:hover {
     background: #f4f0ff;
+  }
+  .practice-question{
+    border-left: 5px solid #7153ED;
+  }
+  .course-project {
+    border-right: 5px solid #7153ED;
+  }
+  .question{
+    border-left: 4px solid #7153ED;
+  }
+  .project {
+    border-right: 4px solid #7153ED;
   }
