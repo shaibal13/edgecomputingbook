@@ -1,6 +1,7 @@
 ---
 title: Chapter 6
 nav_order: 7
+permalink: /chapter6/
 ---
 
 # Chapter 6: Future Trends and Emerging Technologies
@@ -85,29 +86,26 @@ the principles and applications of orbital edge computing.
 
 <div class="question">
 <b>1.</b> Xiuzhen Cheng et al. "Meta computing". In: <i>IEEE Network</i> <b>38</b>. 2 (2024), pp. 225–231. ISSN:
-1558-156X. DOI: 10.1109/MNET003.2300092.
+1558-156X. DOI: 10.1109/MNET003.2300092 | <a href="https://ieeexplore.ieee.org/document/10138337">Paper</a>.
 </div>
 <div class="question">
 <b>2.</b> Bradley Denby and Brandon Lucia. "Orbital edge computing: Nanosatellite constellations as a
-new class of computer system". In: <i>Proceedings of the 25th International Conference on
-Architectural Support for Programming Languages and Operating Systems</i>. ASPLOS '20. New
-York, NY, USA: Association for Computing Machinery, Mar. 2020, pp. 939–954. ISBN:
-978-1-4503-7102-5. DOI: 10.1145/3373376.3378473
+new class of computer system". In: <i>Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems</i>. ASPLOS '20. New York, NY, USA: Association for Computing Machinery, Mar. 2020, pp. 939–954. ISBN: 978-1-4503-7102-5. DOI: 10.1145/3373376.3378473 | <a href="https://dl.acm.org/doi/10.1145/3373376.3378473">Paper</a>.
 </div>
 
 <div class="question">
 <b>3.</b> Khaled B Letaief et al. "Edge artificial intelligence for 6G: Vision, enabling technologies, and
 applications". In: <i>IEEE Journal on Selected Areas in Communications</i> <b>40</b>. 1 (2022), pp. 5–36.
-ISSN: 1558-0008. DOI: 10.1109/JSAC.2021.3126076.
+ISSN: 1558-0008. DOI: 10.1109/JSAC.2021.3126076 | <a href="https://ieeexplore.ieee.org/document/9606720">Paper</a>.
 </div>
 
 <div class="question">
 <b>4.</b> Guanqiao Qu et al. "Mobile Edge Intelligence for Large Language Models: A Contemporary
-Survey.". arXiv:2407.18921 [cs]. July 2024. DOI: 10.48550/arXiv.2407.18921. url: <a href="http://arxiv.org/abs/2407.18921" target="_blank">http://arxiv.org/abs/2407.18921</a>
+Survey.". arXiv:2407.18921 [cs]. July 2024. DOI: 10.48550/arXiv.2407.18921 | <a href="http://arxiv.org/abs/2407.18921">Paper</a>.
 </div>
 <div class="question">
 <b>5.</b> Ion Stoica and Scott Shenker. "From cloud computing to sky computing". In: <i>HotOS '21:
-Workshop on Hot Topics in Operating Systems, Ann Arbor, Michigan, USA, June, 1–3, 2021</i>. Ed. by Sebastian Angel, Baris Kasikci, and Eddie Kohler. ACM, 2021, pp. 26–32. DOI: 10.1145/3458336.3465301.
+Workshop on Hot Topics in Operating Systems, Ann Arbor, Michigan, USA, June, 1–3, 2021</i>. Ed. by Sebastian Angel, Baris Kasikci, and Eddie Kohler. ACM, 2021, pp. 26–32. DOI: 10.1145/3458336.3465301 | <a href="https://dl.acm.org/doi/10.1145/3458336.3465301">Paper</a>.
 </div>
 </div>
 ---

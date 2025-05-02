@@ -1,6 +1,7 @@
 ---
 title: Chapter 1
 nav_order: 2
+permalink: /chapter1/
 ---
 
 # Chapter 1: Why Do We Need Edge Computing?
@@ -76,15 +77,15 @@ computing?
 <div class="practice-question">
 
 <div class="question">
-<b>1.</b> Mahadev Satyanarayanan. "The emergence of edge computing". In: <i>Computer</i> <b>50</b>. 1 (2017), pp. 30–39.
+<b>1.</b> Mahadev Satyanarayanan. "The emergence of edge computing". In: <i>Computer</i> <b>50</b>. 1 (2017), pp. 30–39 | <a href="https://ieeexplore.ieee.org/document/7807196">Paper</a>.
 </div>
 
 <div class="question">
-<b>2.</b> Weisong Shi et al. "Edge computing: Vision and challenges". In: <i>IEEE Internet of Things Journal</i> <b>3</b>. 5 (2016), pp. 637–646.
+<b>2.</b> Weisong Shi et al. "Edge computing: Vision and challenges". In: <i>IEEE Internet of Things Journal</i> <b>3</b>. 5 (2016), pp. 637–646 | <a href="https://ieeexplore.ieee.org/document/7488250">Paper</a>.
 </div>
 
 <div class="question">
-<b>3.</b> Weisong Shi, George Pallis, and Zhiwei Xu. "Edge computing [scanning the issue]". In: <i>Proceedings of the IEEE</i> <b>107</b>. 8 (2019), pp. 1474–1481.
+<b>3.</b> Weisong Shi, George Pallis, and Zhiwei Xu. "Edge computing [scanning the issue]". In: <i>Proceedings of the IEEE</i> <b>107</b>. 8 (2019), pp. 1474–1481 | <a href="https://ieeexplore.ieee.org/document/8789742">Paper</a>.
 </div>
 
 </div>

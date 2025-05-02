@@ -1,6 +1,7 @@
 ---
 title: Chapter 5
 nav_order: 6
+permalink: /chapter5/
 ---
 
 # Chapter 5: Challenges and Solutions in Edge Computing
@@ -67,15 +68,14 @@ environment and implement the resource allocation mechanism. Evaluate the mechan
 <div class="practice-question">
 
 <div class="question">
-<b>1.</b> Sumit Maheshwari et al. "Scalability and performance evaluation of edge cloud systems for latency constrained applications". In: <i>2018 IEEE/ACM Symposium on Edge Computing (SEC) </i>. IEEE. 2018, pp. 286–299.
+<b>1.</b> Sumit Maheshwari et al. "Scalability and performance evaluation of edge cloud systems for latency constrained applications". In: <i>2018 IEEE/ACM Symposium on Edge Computing (SEC) </i>. IEEE. 2018, pp. 286–299 | <a href="https://ieeexplore.ieee.org/document/8567673">Paper</a>.
 </div>
 <div class="question">
-<b>2.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "CHA: A caching framework for home-based voice assistant systems". In: <i>2020 IEEE/ACM Symposium on Edge Computing (SEC)</i>. IEEE. 2020,
-pp. 293–306.
+<b>2.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "CHA: A caching framework for home-based voice assistant systems". In: <i>2020 IEEE/ACM Symposium on Edge Computing (SEC)</i>. IEEE. 2020, pp. 293–306 | <a href="https://ieeexplore.ieee.org/document/9355621">Paper</a>.
 </div>
 
 <div class="question">
-<b>3.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "ChatCache: A hierarchical semantic redundancy cache system for conversational services at edge". In: <i>2021 IEEE 14th International Conference on Cloud Computing (CLOUD)</i>. IEEE. 2021, pp. 85–95.
+<b>3.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "ChatCache: A hierarchical semantic redundancy cache system for conversational services at edge". In: <i>2021 IEEE 14th International Conference on Cloud Computing (CLOUD)</i>. IEEE. 2021, pp. 85–95 | <a href="https://ieeexplore.ieee.org/document/9582161">Paper</a>.
 </div>
 
 </div>

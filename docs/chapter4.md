@@ -1,6 +1,7 @@
 ---
 title: Chapter 4
 nav_order: 5
+permalink: /chapter4/
 ---
 
 # Chapter 4: Toward Edge Intelligence
@@ -90,21 +91,21 @@ devices (e.g., your laptop). A good example can be found at Github:  <a href="ht
 <div class="question">
 <b>1.</b> Jude Haris et al. "SECDA: Efficient hardware/software co-design of FPGA-based DNN
 accelerators for edge inference". In: <i>2021 IEEE 33rd International Symposium on Computer
-Architecture and High Performance Computing (SBAC-PAD)</i>. IEEE. 2021, pp. 33–43.
+Architecture and High Performance Computing (SBAC-PAD)</i>. IEEE. 2021, pp. 33–43 | <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9651579">Paper</a>.
 </div>
 
 <div class="question">
-<b>2.</b> Jakub Konečný et al. "Federated learning: Strategies for improving communication efficiency". In: <i>arXiv preprint arXiv:1610.05492</i> (2016).
+<b>2.</b> Jakub Konečný et al. "Federated learning: Strategies for improving communication efficiency". In: <i>arXiv preprint arXiv:1610.05492</i> (2016) | <a href="https://arxiv.org/abs/1610.05492">Paper</a>.
 </div>
 
 <div class="question">
 <b>3.</b> Xingzhou Zhang et al. "OpenEI: An open framework for edge intelligence". In: <i>2019 IEEE
-39th International Conference on Distributed Computing Systems (ICDCS)</i>.  IEEE. 2019, pp. 1840–1851.
+39th International Conference on Distributed Computing Systems (ICDCS)</i>.  IEEE. 2019, pp. 1840–1851 | <a href="https://arxiv.org/pdf/1906.01864">Paper</a>.
 </div>
 
 <div class="question">
 <b>4.</b> Zhi Zhou et al. "Edge intelligence: Paving the last mile of artificial intelligence with edge
-computing". In: <i>Proceedings of the IEEE</i>. <b>107</b>. 8 (2019), pp. 1738–1762.
+computing". In: <i>Proceedings of the IEEE</i>. <b>107</b>. 8 (2019), pp. 1738–1762 | <a href="https://ieeexplore.ieee.org/abstract/document/8736011">Paper</a>.
 </div>
 
 </div>

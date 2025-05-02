@@ -1,6 +1,7 @@
 ---
 title: Chapter 3
 nav_order: 4
+permalink: /chapter3/
 ---
 <!-- 🗒️ -->
 # Chapter 3: Architecture and Components of Edge Computing
@@ -80,21 +81,21 @@ chmarking</a>
 
 <div class="question">
 <b>1.</b> Pedro Cruz, Nadjib Achir, and Aline Carneiro Viana. "On the edge of the deployment: A survey
-on multi-access edge computing". In: <i>ACM Computing Surveys </i> <b>55</b>. 5 (2022), pp. 1–34.
+on multi-access edge computing". In: <i>ACM Computing Surveys </i> <b>55</b>. 5 (2022), pp. 1–34 | <a href="https://dl.acm.org/doi/10.1145/3529758">Paper</a>.
 </div>
 
 <div class="question">
 <b>2.</b> Yun Chao Hu et al. "Mobile edge computing—A key technology towards 5G". In: <i>ETSI White
-Paper </i><b>11</b>. 11 (2015), pp. 1–16.
+Paper </i><b>11</b>. 11 (2015), pp. 1–16 | <a href="https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp11_mec_a_key_technology_towards_5g.pdf">Paper</a>.
 </div>
 
 <div class="question">
 <b>3.</b> Heiko Koziolek and Nafise Eskandani. "Lightweight Kubernetes distributions: A performance comparison of MicroK8s, k3s, k0s, and MicroShift". In: <i>Proceedings of the 2023 ACM/SPEC
-International Conference on Performance Engineering</i>. 2023, pp. 17–29.
+International Conference on Performance Engineering</i>. 2023, pp. 17–29 | <a href="https://dl.acm.org/doi/10.1145/3578244.3583737">Paper</a>.
 </div>
 
 <div class="question">
-<b>4.</b> Fang Liu et al. "A survey on edge computing systems and tools". In: <i>Proceedings of the IEEE</i>. <b>107</b>. 8 (2019), pp. 1537–1562.
+<b>4.</b> Fang Liu et al. "A survey on edge computing systems and tools". In: <i>Proceedings of the IEEE</i>. <b>107</b>. 8 (2019), pp. 1537–1562 | <a href="https://ieeexplore.ieee.org/document/8746691">Paper</a>.
 </div>
 
 </div>

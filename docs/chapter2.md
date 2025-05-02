@@ -1,6 +1,7 @@
 ---
 title: Chapter 2
 nav_order: 3
+permalink: /chapter2/
 ---
 
 # Chapter 2: Fundamentals of Edge Computing
@@ -69,29 +70,27 @@ nav_order: 3
 <div class="practice-question">
 
 <div class="question">
-<b>1.</b> Rajkumar Buyya et al. "Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility". In: <i>Future Generation Computer Systems</i> <b>25</b>. 6 (2009), pp. 599–616.
+<b>1.</b> Rajkumar Buyya et al. "Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility". In: <i>Future Generation Computer Systems</i> <b>25</b>. 6 (2009), pp. 599–616 | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X08001957">Paper</a>.
 </div>
 
 <div class="question">
-<b>2.</b> Jeffrey Dean and Sanjay Ghemawat. "MapReduce: Simplified data processing on large clusters". In: <i>Communications of the ACM</i> <b>51</b>. 1 (2008), pp. 107–113.
+<b>2.</b> Jeffrey Dean and Sanjay Ghemawat. "MapReduce: Simplified data processing on large clusters". In: <i>Communications of the ACM</i> <b>51</b>. 1 (2008), pp. 107–113 | <a href="https://dl.acm.org/doi/abs/10.1145/1327452.1327492">Paper</a>.
 </div>
 
 <div class="question">
-<b>3.</b> Konstantin Shvachko et al. "The Hadoop distributed file system". In: <i>2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST)</i>. IEEE. 2010, pp. 1–10.
+<b>3.</b> Konstantin Shvachko et al. "The Hadoop distributed file system". In: <i>2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST)</i>. IEEE. 2010, pp. 1–10 | <a href="https://ieeexplore.ieee.org/abstract/document/5496972">Paper</a>.
 </div>
 
 <div class="question">
-<b>4.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "CHA: A caching framework for home-based voice assistant systems". In: <i>2020 IEEE/ACM Symposium on Edge Computing (SEC)</i>. IEEE. 2020,
-pp. 293–306.
+<b>4.</b> Lanyu Xu, Arun Iyengar, and Weisong Shi. "CHA: A caching framework for home-based voice assistant systems". In: <i>2020 IEEE/ACM Symposium on Edge Computing (SEC)</i>. IEEE. 2020, pp. 293–306 | <a href="https://ieeexplore.ieee.org/abstract/document/9355621">Paper</a>.
 </div>
 
 <div class="question">
-<b>5.</b> Shanhe Yi et al. "LAVEA: Latency-aware video analytics on edge computing platform". In: <i>Proceedings of the 2nd ACM/IEEE Symposium on Edge Computing</i>. 2017, pp. 1–13.
+<b>5.</b> Shanhe Yi et al. "LAVEA: Latency-aware video analytics on edge computing platform". In: <i>Proceedings of the 2nd ACM/IEEE Symposium on Edge Computing</i>. 2017, pp. 1–13 | <a href="https://ieeexplore.ieee.org/document/7980238">Paper</a>.
 </div>
 
 <div class="question">
-<b>6.</b> Quan Zhang et al. "Firework: Big data sharing and processing in collaborative edge environment". In: <i>2016 4th IEEE Workshop on Hot Topics in Web Systems and Technologies
-(HotWeb)</i>. IEEE. 2016, pp. 20–25.
+<b>6.</b> Quan Zhang et al. "Firework: Big data sharing and processing in collaborative edge environment". In: <i>2016 4th IEEE Workshop on Hot Topics in Web Systems and Technologies (HotWeb)</i>. IEEE. 2016, pp. 20–25 | <a href="https://ieeexplore.ieee.org/document/7785712">Paper</a>.
 </div>
 </div>
 ---
