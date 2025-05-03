@@ -19,7 +19,7 @@ permalink: /chapter1/
 <div class="practice-question">
 
 <div class="question">
-<b>1.</b> What is the "“edge”"?
+<b>1.</b> What is the "edge"?
 </div>
 
 <div class="question">
