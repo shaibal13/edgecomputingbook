@@ -12,7 +12,6 @@ permalink: /chapter9/
 
 > This concluding chapter highlights edge computing's role in the Internet of Everything era, where vast data demands low-latency processing. By enabling data handling at the source, edge computing reduces bandwidth needs, enhances privacy, and complements cloud computing. Covering essential principles, architecture, edge intelligence, and industry applications, this chapter emphasizes emerging trends, security challenges, and the importance of interdisciplinary collaboration to inspire future research and innovation in edge computing.
 
----
 <!-- {: .important }
 ## 📝 Practice Questions
 {: .fs-5 .text-grey-dk-100 }

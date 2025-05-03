@@ -16,8 +16,6 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover.png" alt="Edge Computing Book Cover"
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/> -->
 <div class="side_by_side">
-
-
 <div>
 
 <div class="preface">
