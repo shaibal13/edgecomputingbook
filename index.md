@@ -24,7 +24,7 @@ Over the past decade, edge computing’s rapid evolution has fundamentally trans
 
 <div class="image_div">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover.png" alt="Edge Computing Book Cover"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover_page.png" alt="Edge Computing Book Cover"/>
 
 </div>
 </div>
