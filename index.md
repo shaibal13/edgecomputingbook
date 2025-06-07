@@ -23,7 +23,7 @@ permalink: /
 
 </a>
   </div>
-<p>Over the past decade, edge computing’s rapid evolution has fundamentally transformed how data is processed, stored, and utilized across multiple industry sectors, such as smart manufacturing, healthcare, smart cities, and transportation. As a critical enabler of technologies such as the Internet of Things (IoT), autonomous systems, and real-time analytics, edge computing has progressed from a nascent concept to widespread adoption. Despite this remarkable growth, there remains a lack of educational resources dedicated to equipping the next generation of the workforce with the knowledge and skills needed to advance edge computing further.</p></div> 
+<p>Over the past decade, edge computing’s rapid evolution has fundamentally transformed how data is processed, stored, and utilized across multiple industry sectors, such as smart manufacturing, healthcare, smart cities, and transportation. As a critical enabler of technologies such as the Internet of Things (IoT), autonomous systems, and real-time analytics, edge computing has progressed from a nascent concept to widespread adoption. Despite this remarkable growth, there remains a lack of educational resources dedicated to equipping the next generation of the workforce with the knowledge and skills needed to advance edge computing further.</p></div>
 
 
 
