@@ -86,3 +86,88 @@
   .authors_div1 p, .authors_div2 p {
     margin-top: 0.5em !important;
   }
+  .image_div_text{
+    background-color: #f9f9ff; 
+    padding: 1rem 1.25rem; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05); 
+    margin-bottom: 1rem;
+    overflow:auto;
+    border-left: 4px solid #D1D5DB !important;
+    margin-top: 18px;
+  }
+  .image_text{
+    float: right;
+    margin-left: 16px;
+    text-align: center;
+    display: inline-grid;
+}
+
+  .buy_now_anchor{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 171, 64);
+    color: rgb(17, 17, 17);
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 6px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    margin-left: -1px;
+    transform: none;
+  }
+  .buynow{
+    background: white;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+  }
+  .book_img{
+    width: 200px;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 8px;
+  }
+  .floating_buy_button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff9900;
+    color: #111;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    gap: 10px;
+    z-index: 9999;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.floating_buy_button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.3);
+}
+
+.buy_circle_icon {
+    background: white;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

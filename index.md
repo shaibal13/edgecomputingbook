@@ -11,23 +11,60 @@ permalink: /
 ## Preface
 {: .fs-5 .text-grey-dk-100 }
 
-<!-- <div style="overflow: auto;">
+<div class="image_div_text"> 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover.png" alt="Edge Computing Book Cover"
-     style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/> -->
-<div class="side_by_side">
-<div>
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover_page.png" alt="Edge Computing Book Cover" /> -->
+  <div class="image_text">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover_page.png" alt="Edge Computing Book Cover" class="book_img" />
+ <a href="https://a.co/d/784o7ka" target="_blank" class="buy_now_anchor" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 12px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.2)';">
 
-<div class="preface">
-Over the past decade, edge computing’s rapid evolution has fundamentally transformed how data is processed, stored, and utilized across multiple industry sectors, such as smart manufacturing, healthcare, smart cities, and transportation. As a critical enabler of technologies such as the Internet of Things (IoT), autonomous systems, and real-time analytics, edge computing has progressed from a nascent concept to widespread adoption. Despite this remarkable growth, there remains a lack of educational resources dedicated to equipping the next generation of the workforce with the knowledge and skills needed to advance edge computing further. </div>
-</div>
+   <div class="buynow"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/amazon_icon_1.svg" alt="Amazon" style="height: 16px; width; 16px" /> </div>
+    Order On Amazon
 
-<div class="image_div">
+</a>
+  </div>
+<p>Over the past decade, edge computing’s rapid evolution has fundamentally transformed how data is processed, stored, and utilized across multiple industry sectors, such as smart manufacturing, healthcare, smart cities, and transportation. As a critical enabler of technologies such as the Internet of Things (IoT), autonomous systems, and real-time analytics, edge computing has progressed from a nascent concept to widespread adoption. Despite this remarkable growth, there remains a lack of educational resources dedicated to equipping the next generation of the workforce with the knowledge and skills needed to advance edge computing further.</p></div>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cover_page.png" alt="Edge Computing Book Cover"/>
 
-</div>
-</div>
+
+<!-- Floating Buy Now Button -->
+<!-- <div style="
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 24px;
+    background: linear-gradient(145deg, #0d0d0d, #1a1a1a);
+    color: white !important;
+    text-decoration: none !important;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.5);
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+">
+  <a href="https://your-amazon-link.com" target="_blank" style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      color: white !important;
+      text-decoration: none !important;
+  " onmouseover="this.parentElement.style.transform='translateY(-3px)'; this.parentElement.style.boxShadow='0 12px 24px rgba(0,0,0,0.6)';" onmouseout="this.parentElement.style.transform='none'; this.parentElement.style.boxShadow='0 8px 16px rgba(0,0,0,0.5)';">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+      <span style="font-size: 12px; color: #ccc;">ORDER NOW AT</span>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Amazon_logo_white.svg" alt="Amazon" style="height: 22px; margin-top: 4px; filter: none !important;">
+    </div>
+    <span style="color: #ff9900; font-size: 26px; margin-left: 16px;">&#8250;</span>
+  </a>
+</div> -->
+
 <div class="preface">
 This book was motivated to address that gap, offering a comprehensive introduction to edge computing’s principles, architectures, applications, and challenges. It aims to provide readers, ranging from students to professionals, with a solid foundation in edge computing, enabling them to understand its current state, tackle its challenges, and drive its development. By bridging theory and practice, this book aspires to inspire innovation, foster collaboration, and promote growth in this rapidly evolving field.</div>
 <div class="preface">
